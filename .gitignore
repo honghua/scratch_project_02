@@ -1,0 +1,5 @@
+/.cache
+/CMakeLists.txt
+/build
+/main.cpp
+/myvector00.cpp
